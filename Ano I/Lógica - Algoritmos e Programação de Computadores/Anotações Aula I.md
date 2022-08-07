@@ -1,121 +1,95 @@
-WEB TEORIA E PRÁTICA 01
+# WEB TEORIA E PRÁTICA 01
 
- #ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES
-
-
-
-Fundamentos de lógica computacional
+ ### ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES
 
 
-Etapas de desenvolvimento do software
+##### Etapas de desenvolvimento do software:
 
- - Análise: Entender o problema
-que tem que ser resolvido e definir os dados de entrada, processamento
-e dos dados de saída.
+ - Análise: Entender o problema que tem que ser resolvido e definir os dados de entrada, processamento e dos dados de saída;
 
- - Algoritmo: Sequência de passos lógicos a serem executados para 
-resolver um problemas.
+ - Algorítmo: Sequência de passos lógicos a serem executados para resolver um problema. Tem que ser o mais claro possível e com o máximo de detalhes.
 
-Tem que ser o mais claro possível e com todos os detalhes possíveis
+##### Diferença entre algorítimo e código:
 
-Qual a diferença entre algoritmo e código?
+ - O algoritmo é a sequência de passos em uma ordem determinada a seguir para a criação do programa, enquanto o código é o versionado do código que será usado para a execução desse programa com o fim de resolver um determinado problema.
 
-O algoritmo é a sequência de passos a seguir
+##### Tipos de linguagem:
 
-O programa é a execução desses passos que irá resolver o problema
+ - Linguagens de baixo nível são as linguagens de programação mais próxima a linguagem de máquina. Ex: Assembly (010101-números binários)
 
- - Codificação: Desenvolvimento do código em si.
+ - Linguagens de alto nível são mais próximas a linguagem humana. Ex: Phyton (inglês)
 
-Linguagens de baixo nível: É uma linguagem de programação mais
-próxima a linguagem de máquina. Ex: Assembly (010101)
+ - Nas linguagens de programação compiladas, o código é convertido para a linguagem de máquina e executado.
 
-Linguagens de alto nível: São mais próximas a linguagem humana. Ex:
-Phyton (inglês)
-
-Linguagem de programação compilada: o código é convertido para
-a uma linguagem de máquina e executado.
-
-Linguagem de programação interpretada: o código é executado linha
-por linha sem a necessidade de fazer a compilação.
+ - E nas Linguagens de programação interpretadas: o código é executado linha por linha sem a necessidade de um compilador.
 
 
-#Python
+### PYTHON
 
-É uma linguagem de múltiplos paradigmas de programação, trabalha com
-programas orientados a objetos, programas com paradigma estrutural e
+ - É uma linguagem de múltiplos paradigmas de programação, trabalha com programas orientados a objetos, programas com paradigma estrutural e
 funcional.
 
-Para programar em Python - https://colab.research.google.com/
 
-Leitura da Aula I
+## RESUMO DE LEITURA - AULA I
 
-Defina o conceito de algoritmos e lógica de programação:
 
-Algoritmos são uma sequência de passos que devem ser executados em uma determinanda ordem
-para a resolução de um problema.
+##### Conceito de algoritmos e lógica de programação:
 
-De acordo com Manzano e Oliveira(2016), a lógica de programação objetiva ações que devem ser 
-tomadas para se desenvolver e chegar a um resultado final. 
-Algumas das principais ações que devem ser observadas na criação de uma programa são a 
-facilidade de:
+#####  Algorítmos
 
- - Depuração ou debug: ajuda o desenvolvedor a encontrar problemas no código fonte.
+ - São uma sequência de passos que devem ser executados em uma determinanda ordem para a resolução de um problema.
 
- - A verificação de possíveis falhas.
+##### Lógica de Programação
 
- - Facilidade de alterações.
+De acordo com Manzano e Oliveira(2016), a lógica de programação objetiva ações que devem ser tomadas para se desenvolver e chegar a um resultado final. Algumas das principais ações que devem ser observadas na criação de uma programa são a facilidade de:
+
+ - Depuração ou debug: ajuda o desenvolvedor a encontrar problemas no código fonte;
+
+ - A verificação de possíveis falhas;
+
+ - Facilidade de alterações;
 
  - E aproveitamento de código.
 
-Para desenvolver as ações acima é fundamental que o programador saiba interpretar e criar
-algoritmos eficientes. As formas mais utilizadas são:
+Para desenvolver as ações acima é fundamental que o programador saiba interpretar e criar algoritmos eficientes. As formas mais utilizadas são:
 
- - A descrição narrativa: é uma descrição simples do passo a passo do programa na linguagem do
-dia a dia, não é muito utlizada por poder haver ambuguidade na interpretação.
+ - A descrição narrativa: é a descrição simples do passo a passo do programa na linguagem do dia a dia (português por exemplo), não é muito usada por poder haver ambuguidade na interpretação;
 
- - Fluxogramas: são diferentes formas geográficas que vão ilustrar cada parte do algoritmo,
-como dados de entrada, saída e processamento por exemplo.
+ - Fluxogramas: são diferentes formas geográficas que vão ilustrar cada parte do algoritmo, como dados de entrada, saída e processamento;
 
- - Pseudocódigos: é a forma mais utlizada para a criação de algoritmos e que mais se aproxima
-das linguangens de programação, as operações são feitas na lingua cotidiana e permite que o
-criador faça comentários explicando cada etapa do algoritmo.
+ - Pseudocódigos: é a forma mais usada para a criação de algoritmos e que mais se aproxima das linguangens de programação, as operações são feitas na lingua cotidiana e permite que o criador faça comentários explicando cada etapa do algoritmo.
 
 
-As variáveis são um espaço na memória do programa que pode variar conforme a sua execução.
+###### Bônus
+
+ - Variáveis são um espaço na memória do programa em que os dados podem varias durante a execução do programa.
 
 
+##### Diferenças dos componentes básicos de funcionamento de um computador na execução de um algoritmo:
 
-Diferencie os componentes básicos de funcionamento de um computador na execução de algoritmos:
+ - A Unidade de processamento de dados ( CPU - Central Processing Unit, ou Unidade Central de Processamento) é dividida em duas unidades. Unidade lógica de aritmética (ULA) e unidade de controle (UC), a primeira executa as operações lógicas e matemáticas, enquanto a segunda controla as instruções a serem executadas pelo computador;
 
- - Unidade de processamento de dados: CPU (central processing unit, unidade centra de processamento), possui
-unidade lógica e aritmética e lógica e pela unidade de controle. A unidade lógica e artimética
-vai executar as operações matemáticas e lógicas, enquanto a unidade de controle controla as
-intruções a serem executadas pelo computador.
+ - Na Unidade de entrada os dados inseridos no computador por meio de dispositivos como teclado, mouse, e o monitor touch screen por exemplo;
 
- - Unidade de entrada: São o dados inseridos do computador como teclado e mouse por exemplo.
 
- - Unidade de saída: exibe para o usuário o resultado do processamento de dados
+ - E a Unidade de saída exibe para o usuário o resultado do processamento dos dados inseridos ou que estavam armazenados na memória, por meio de dispositivos de saída como o monitor, a impressora, caixas de som por exemplo.
 
 
 
-####ETAPAS PARA A CONSTRUÇÃO DE ALGOTRITMO
+##### ETAPAS PARA A CONSTRUÇÃO DE ALGOTRITMO
 
- - Identificação dos problemas
- - Definir quais dados de entrada serão necessário para produzir a saída pré estabelecida
- - Construção: etapa de criação do algoritmo com base nas informações definidas nas etapas
-anteriores
- - Validação: teste do algoritmo para verificar se atende a necessidade do programa
- - Construção do programa: criação do programa com base no algoritmo criado anteriormente.
- - Verificação do programa: são os teste feitos com a entrada de dados para ver o programa
-é executado da meneira correta.
- - Manutenção: acompanhar o programa durante o uso para corrigir eventuais erros na execução,
-ou fazer atualizações necessárias.
+ - Identificação do problema;
+ - Definir quais dados de entrada serão necessário para produzir a saída pré estabelecida;
+ - Criar um algoritmo com base nas informações definidas nas etapas anteriores;
+ - Validar o algoritmo para verificar se atende a necessidade do programa;
+ - Criar o programa com base no algoritmo criado anteriormente;
+ - Verificar se o programa é executado da meneira correta por meio de testes;
+ - Fazer a manutenção do programa durante o uso para corrigir eventuais erros e, ou fazer as atualizações necessárias.
 
 
 
 
-Referências
-
+### REFERÊNCIAS
 
 BERG, A. C.; FIGUEIRÓ, J. P. Lógica de programação. 3. ed. rev. e atual. Canoas: Ulbra, 2006.
 EDELWEISS, N.; LIVI, M. A. C. Algoritmos e programação com exemplos em Pascal e C. 
