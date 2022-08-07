@@ -5,19 +5,19 @@
 
 ##### Etapas de desenvolvimento do software:
 
- - Análise: Entender o problema que tem que ser resolvido e definir os dados de entrada, processamento e dos dados de saída;
+ - Análise: Entender o problema que tem que ser resolvido e definir os dados de entrada, processamento e os dados de saída;
 
  - Algorítmo: Sequência de passos lógicos a serem executados para resolver um problema. Tem que ser o mais claro possível e com o máximo de detalhes.
 
 ##### Diferença entre algorítimo e código:
 
- - O algoritmo é a sequência de passos em uma ordem determinada a seguir para a criação do programa, enquanto o código é o versionado do código que será usado para a execução desse programa com o fim de resolver um determinado problema.
+ - O algoritmo é a sequência de passos em uma ordem determinada a ser seguida para a criação do programa, enquanto o código é o versionado do código que será usado para a execução desse programa com o fim de resolver um determinado problema.
 
 ##### Tipos de linguagem:
 
- - Linguagens de baixo nível são as linguagens de programação mais próxima a linguagem de máquina. Ex: Assembly (010101-números binários)
+ - Linguagens de baixo nível são as linguagens de programação que mais se aproximam da linguagem de máquina. Ex: Assembly (010101-números binários)
 
- - Linguagens de alto nível são mais próximas a linguagem humana. Ex: Phyton (inglês)
+ - Linguagens de alto nível são mais próximas ao entendimento humano. Ex: Phyton (inglês)
 
  - Nas linguagens de programação compiladas, o código é convertido para a linguagem de máquina e executado.
 
@@ -41,7 +41,7 @@ funcional.
 
 ##### Lógica de Programação
 
-De acordo com Manzano e Oliveira(2016), a lógica de programação objetiva ações que devem ser tomadas para se desenvolver e chegar a um resultado final. Algumas das principais ações que devem ser observadas na criação de uma programa são a facilidade de:
+De acordo com Manzano e Oliveira (2016), a lógica de programação objetiva ações que devem ser tomadas para se desenvolver e chegar a um resultado final. Algumas das principais ações que devem ser observadas na criação de uma programa são a facilidade de:
 
  - Depuração ou debug: ajuda o desenvolvedor a encontrar problemas no código fonte;
 
